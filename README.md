@@ -6,3 +6,4 @@
 	* mac os platform
 		* branch: macos
 * using merge command, the file in repository will be merged automatically, which means no need  to commit again manully.
+* no branch has modified this file in master yet.
