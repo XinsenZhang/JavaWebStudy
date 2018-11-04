@@ -5,4 +5,4 @@
 		* branch: windows
 	* mac os platform
 		* branch: macos
-	* using merge command, the file in repository will be merged automatically, which means no need  to commit again manully.
+* using merge command, the file in repository will be merged automatically, which means no need  to commit again manully.
