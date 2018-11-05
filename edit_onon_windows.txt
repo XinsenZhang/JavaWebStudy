@@ -1,4 +1,0 @@
-11/5/2018
-4 method to clear the side effects of float
-practice in html with CSS to implement a simple head of imooc
-position usage: lack one: stick
