@@ -3,3 +3,6 @@
 practice in html with CSS to implement a simple head of imooc
 position usage: lack one: sticky
 today's work is done.
+
+11/6/2018
+finish almost all the CSS section via Windows Platform
