@@ -4,6 +4,11 @@
     <list default="true" id="e6072a26-2b9c-4871-88bd-ad469eea8f84" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+<<<<<<< HEAD
+      <change afterPath="$PROJECT_DIR$/CSS/lecture6 浮动属性/test4_clear.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/lecture6 浮动属性/test5_overflow解决float.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/lecture6 浮动属性/test6_用浮动对付浮动.html" afterDir="false" />
+=======
       <change afterPath="$PROJECT_DIR$/CSS/lecture6 浮动属性/draft" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/CSS/lecture6 浮动属性/explore.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/CSS/lecture6 浮动属性/test4_clear.html" afterDir="false" />
@@ -15,6 +20,7 @@
       <change afterPath="$PROJECT_DIR$/CSS/lecture7 position定位/test3_absolute.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/CSS/lecture7 position定位/test4_fixed.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/CSS/lecture7 position定位/test5_sticky.html" afterDir="false" />
+>>>>>>> windows
       <change beforePath="$PROJECT_DIR$/CSS/lecture6/test1_浮动尝试.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/lecture6 浮动属性/test1_浮动尝试.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CSS/lecture6/test3_浮动副作用.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/lecture6 浮动属性/test3_浮动副作用.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CSS/note.md" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/note.md" afterDir="false" />
@@ -38,38 +44,77 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+<<<<<<< HEAD
+          <entry key="html" value="5" />
+          <entry key="md" value="2" />
+=======
           <entry key="css" value="1" />
           <entry key="draft" value="1" />
           <entry key="html" value="13" />
           <entry key="md" value="2" />
           <entry key="rnc" value="1" />
+>>>>>>> windows
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
+<<<<<<< HEAD
+          <entry key="HTML" value="5" />
+          <entry key="Markdown" value="2" />
+=======
           <entry key="CSS" value="1" />
           <entry key="HTML" value="13" />
           <entry key="Markdown" value="2" />
           <entry key="PLAIN_TEXT" value="1" />
           <entry key="RNG Compact" value="1" />
+>>>>>>> windows
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
       <usages-collector id="statistics.vcs.git.usages" />
       <usages-collector id="statistics.file.types.edit">
         <counts>
+<<<<<<< HEAD
+          <entry key="HTML" value="777" />
+          <entry key="Markdown" value="211" />
+=======
           <entry key="HTML" value="3892" />
           <entry key="Markdown" value="1811" />
+>>>>>>> windows
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
+<<<<<<< HEAD
+          <entry key="html" value="777" />
+          <entry key="md" value="211" />
+=======
           <entry key="html" value="3892" />
           <entry key="md" value="1811" />
+>>>>>>> windows
         </counts>
       </usages-collector>
     </session>
   </component>
+<<<<<<< HEAD
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CSS/lecture6 浮动属性/test4_clear.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="644">
+              <caret line="28" column="25" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CSS/note.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="1015">
+                <caret line="184" column="40" selection-start-line="184" selection-start-column="40" selection-end-line="184" selection-end-column="40" />
+=======
   <component name="FavoritesManager">
     <favorites_list name="BasicJavaWeb" />
   </component>
@@ -81,17 +126,35 @@
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="831">
                 <caret line="243" column="25" lean-forward="true" selection-start-line="243" selection-start-column="25" selection-end-line="243" selection-end-column="25" />
+>>>>>>> windows
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CSS/lecture6 浮动属性/test6_用浮动对付浮动.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="253">
+              <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CSS/lecture6 浮动属性/test5_overflow解决float.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="184">
+              <caret line="8" column="26" lean-forward="true" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+=======
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CSS/lecture7 position定位/test5_sticky.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="161">
               <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+>>>>>>> windows
             </state>
           </provider>
         </entry>
@@ -114,6 +177,11 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/CSS/lecture6 浮动属性/test4_clear.html" />
+<<<<<<< HEAD
+        <option value="$PROJECT_DIR$/CSS/note.md" />
+        <option value="$PROJECT_DIR$/CSS/lecture6 浮动属性/test5_overflow解决float.html" />
+        <option value="$PROJECT_DIR$/CSS/lecture6 浮动属性/test6_用浮动对付浮动.html" />
+=======
         <option value="$PROJECT_DIR$/CSS/lecture6 浮动属性/test5_overflow解决float.html" />
         <option value="$PROJECT_DIR$/CSS/lecture6 浮动属性/test6_用浮动对付浮动.html" />
         <option value="$PROJECT_DIR$/CSS/lecture6 浮动属性/test6_慕课网头部实现.html" />
@@ -126,6 +194,7 @@
         <option value="$PROJECT_DIR$/CSS/lecture7 position定位/test4_fixed.html" />
         <option value="$PROJECT_DIR$/CSS/note.md" />
         <option value="$PROJECT_DIR$/CSS/lecture7 position定位/test5_sticky.html" />
+>>>>>>> windows
       </list>
     </option>
   </component>
@@ -165,7 +234,11 @@
               <item name="BasicJavaWeb" type="b2602c69:ProjectViewProjectNode" />
               <item name="BasicJavaWeb" type="462c0819:PsiDirectoryNode" />
               <item name="CSS" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
+              <item name="lecture6 浮动属性" type="462c0819:PsiDirectoryNode" />
+=======
               <item name="lecture7 position定位" type="462c0819:PsiDirectoryNode" />
+>>>>>>> windows
             </path>
           </expand>
           <select />
@@ -192,6 +265,8 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
+=======
   <component name="RunManager">
     <configuration name="test7_慕课网头部实现.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/BasicJavaWeb/CSS/lecture6 浮动属性/test7_慕课网头部实现.html">
       <method v="2" />
@@ -202,6 +277,7 @@
       </list>
     </recent_temporary>
   </component>
+>>>>>>> windows
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -212,20 +288,34 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1541391243747</updated>
+<<<<<<< HEAD
+      <workItem from="1541391247460" duration="3977000" />
+=======
       <workItem from="1541391247460" duration="22423000" />
+>>>>>>> windows
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
+    <option name="totallyTimeSpent" value="3977000" />
+=======
     <option name="totallyTimeSpent" value="22423000" />
+>>>>>>> windows
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
     <editor active="true" />
     <layout>
+<<<<<<< HEAD
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13396375" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+=======
       <window_info id="Favorites" sideWeight="0.5011839" side_tool="true" weight="0.13396375" />
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4988161" visible="true" weight="0.13396375" />
       <window_info id="Structure" order="1" sideWeight="0.5011839" side_tool="true" visible="true" weight="0.13396375" />
+>>>>>>> windows
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" />
@@ -241,6 +331,8 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+<<<<<<< HEAD
+=======
     <layout-to-restore>
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="1" sideWeight="0.49960536" visible="true" weight="0.13396375" />
@@ -260,6 +352,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout-to-restore>
+>>>>>>> windows
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -268,6 +361,8 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
+=======
     <entry file="file://$PROJECT_DIR$/CSS/lecture4 CSS布局/test2_两行三列布局.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -281,6 +376,7 @@
         </state>
       </provider>
     </entry>
+>>>>>>> windows
     <entry file="file://$PROJECT_DIR$/CSS/lecture6 浮动属性/test4_clear.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="644">
@@ -288,6 +384,12 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/CSS/lecture6 浮动属性/test5_overflow解决float.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="26" lean-forward="true" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+=======
     <entry file="file://$PROJECT_DIR$/CSS/lecture6 浮动属性/test6_用浮动对付浮动.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="299">
@@ -355,18 +457,34 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
           <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+>>>>>>> windows
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CSS/note.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
+<<<<<<< HEAD
+          <first_editor relative-caret-position="1015">
+            <caret line="184" column="40" selection-start-line="184" selection-start-column="40" selection-end-line="184" selection-end-column="40" />
+=======
           <first_editor relative-caret-position="831">
             <caret line="243" column="25" lean-forward="true" selection-start-line="243" selection-start-column="25" selection-end-line="243" selection-end-column="25" />
+>>>>>>> windows
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/CSS/lecture6 浮动属性/test6_用浮动对付浮动.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+=======
+>>>>>>> windows
   </component>
 </project>
