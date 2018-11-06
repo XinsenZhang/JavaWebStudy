@@ -55,4 +55,53 @@
     * !=
         * 不等于
     * &&
+<<<<<<< HEAD
     * ||
+=======
+    * ||
+    
+
+
+
+## Lecture 3 JavaScript中DOM操作
+* HTML DOM
+    * 修改html内容
+        * document.getElementById(id).innerHTML("hello world");
+    * 修改html属性
+        * element.getAttribute();
+        * element.setAttribute();
+            * 用来添加或者修改属性
+        * element.src
+            * 可以用来重新定义链接
+            * element.src = "url";
+        * element.href
+* DOM CSS
+    * element.style.color = "blue";
+* DOM 事件
+    * 元素
+    * 动作
+    * 反应结果
+    
+    1. <h1 onclick="this.innerHTML='谢谢'">请点击该文本</h1>
+        * 事件内嵌元素中
+    2. Element.onclick=function(){displayDate()}
+    3. Element.addEventListener("click",function(){});
+    
+* DOM 节点
+    * document.createElement("p");
+	* document.createTextNode("新增");
+	* parent.appendChild(child);
+	* parent.removeChild(child);
+
+## Lecture4 Window
+* 认识
+    * 所有浏览器都支持window对象,它表示浏览器的窗口
+    * 所有JS全局对象,函数和变量均自动成为window的成员
+    * 全局变量是window对象的属性
+    * 全局函数是window对象的方法
+* window的方法
+    * window.open()
+    * window.close()
+    * window.moveTo()
+    * window.resizeTo()
+>>>>>>> workflow

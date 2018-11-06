@@ -6,3 +6,7 @@ today's work is done.
 
 11/6/2018
 finish almost all the CSS section via Windows Platform
+<<<<<<< HEAD
+=======
+initial of JS
+>>>>>>> workflow
