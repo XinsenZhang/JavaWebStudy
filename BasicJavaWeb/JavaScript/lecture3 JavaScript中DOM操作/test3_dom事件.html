@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>dom事件</title>
+</head>
+<body>
+	<!--/*-->
+	<!--* 元素-->
+	<!--* 动作-->
+	<!--* 触发结果-->
+	<!--*/-->
+	
+	
+	<!--1. <h1 onclick="this.innerHTML='谢谢'">请点击该文本</h1>-->
+		<!--* 事件内嵌元素中-->
+	<!--2. Element.onclick=function(){displayDate()}-->
+	<!--3. Element.addEventListener("click",function(){});-->
+<div onclick="window.alert('hello world')" style="cursor: pointer">弹窗按钮</div>
+	<div onclick="this.innerHTML='已点击'" style="cursor: pointer">点击按钮</div>
+<div id="main" style="cursor: pointer">我是main</div>
+	<div id="btn">我是btn</div>
+	<script type="text/javascript">
+		var main = document.getElementById("main");
+		main.onclick = function () {
+		    alert("main 被触发了");
+		    this.style.cursor="none";
+		    this.innerHTML = "我已经被触发了";
+		}
+		
+		var btn = document.getElementById("btn");
+		btn.addEventListener("click",function () {
+			this.innerHTML = "我已经被触发过了";
+			alert("我被触发了");
+        });
+		
+	</script>
+</body>
+</html>

@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>DOM html</title>
+</head>
+<body>
+<div id="main" data="hello">123
+</div>
+<img src="2.jpg" alt="从网上随便找来的图片" id="image" />
+<script type="text/javascript">
+	 var main = document.getElementById("main");
+	 console.log(main);
+	 main.innerHTML = "hello world";
+	 // var data = main.getAttribute("data");
+	 main.setAttribute("data","not bad");
+	 var data = main.getAttribute("data");
+	 window.alert(data);
+	 main.setAttribute("dd","test");
+	 var dd = main.getAttribute("dd");
+	 window.alert(dd);
+	 var image = document.getElementById("image");
+	 console.log(image);
+	 image.src = 'https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1541528413062&di=e14335e6cebc89474ebe5ea2db442b67&imgtype=0&src=http%3A%2F%2Fa.hiphotos.baidu.com%2Fimage%2Fpic%2Fitem%2Fc995d143ad4bd1130360f25d57afa40f4bfb052b.jpg';
+</script>
+</body>
+</html>
