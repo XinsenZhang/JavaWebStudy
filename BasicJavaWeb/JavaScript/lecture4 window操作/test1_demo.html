@@ -2,29 +2,34 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>window</title>
+	<title>JS window</title>
 </head>
 <body>
-<button onclick="createwindow()">创建窗口</button>
-<button onclick="resizewindow()">调整窗口</button>
+<button onclick="openwindow()">创建窗口</button>
+<button onclick="myFunction()">调整窗口</button>
 <button onclick="moveto()">移动窗口</button>
-<button>关闭窗口</button>
+<button onclick="closewindow()" >关闭窗口</button>
 <script type="text/javascript">
 	var w;
-	function createwindow() {
-		w = window.open("https://www.baidu.com","百度","height=500,width=500");
+	function openwindow() {
+		w = window.open("","","height=300,width=300");
     }
     
-    function resizewindow() {
-	    alert("开始调整");
-	    w.resizeTo(100,100);
-	    w.focus();
+    function myFunction() {
+        w.resizeTo(500,500);
+        w.focus();
     }
     
     function moveto() {
 	    w.moveTo(100,100);
 	    w.focus();
     }
+
+    function closewindow() {
+	    w.close(100,100);
+	    w.focus();
+    }
+
 </script>
 </body>
 </html>

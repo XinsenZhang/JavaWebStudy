@@ -136,5 +136,31 @@
     * window.close()
     * window.moveTo()
     * window.resizeTo()
+
+* window.screen 
+    * window.screen 对象在编写时可以不使用window这个前缀
+    * screen.availWidth 
+        * 可用的屏幕宽度
+    * screen.availHeight
+        * 可用的屏幕高度
+* window Location
+    * window 可以省略
+    * location.hostname
+        * 返回web主机的域名
+    * location.pathname
+        * 返回当前页面的路径和文件名
+    * location.protocol
+        * 返回所使用的web协议
+    * location.href
+        * 返回(当前页面的)整个url
+* window history 
+    * 可以不使用window这个前缀
+    * history.back()
+    * history.forward()
+    * history.go()
+        * history.go(0)
+            * 刷新当前页面
+        * history.go(-2)
+            * 往前走2页
 >>>>>>> workflow
 >>>>>>> 3e74968859c65e51ae15abdf841897ac2628c5a6
