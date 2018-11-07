@@ -56,3 +56,32 @@
         * 不等于
     * &&
     * ||
+    
+## Lecture2  JavaScript中条件控制语句和循环语句
+* JS条件语句与switch语句
+    * 条件语句:if, else if, else
+    * switch语句:switch, case, break, default
+* js中for循环与while循环
+    * for
+        * 循环代码块一定的次数
+        * for循环内部的变量在循环体外仍然还能用
+    * for/in
+        * 循环遍历对象
+    * while
+        *  当指定条件为true时循环指定的代码块
+
+*  js中的break和continue语句
+    * break
+        * 跳出当前循环
+    * continue
+        * 跳出本次循环，继续执行
+        
+## Lecture3 JavaScript中的DOM操作
+* DOM HTML
+    * 修改html内容
+        * document.getElementById(id).innerHTML = "helloworld";
+    * 修改html属性
+        * element.getAttribute()
+        * element.setAtrribute()
+        * element.src
+        * element.href
