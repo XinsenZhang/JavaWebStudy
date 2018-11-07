@@ -11,3 +11,5 @@
 =======
 * windows对文本进行了随意篡改
 >>>>>>> windows
+
+## lecture 3 code file in JS is duplicated
